@@ -13,6 +13,9 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.snippet.nvim-snippets" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   -- import/override with your plugins folder
