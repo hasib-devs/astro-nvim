@@ -5,7 +5,6 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.html-css" },
@@ -21,5 +20,6 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.snippet.nvim-snippets" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.completion.copilot-lua" },
   -- import/override with your plugins folder
 }
